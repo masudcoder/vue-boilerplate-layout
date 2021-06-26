@@ -3,7 +3,8 @@
 ## Project setup
 
 ```
-##This Sample Project is to help developer who wants to start a project in Vue. Home, About, Contact, Products, Product Details Page are there.
+##This Sample Project is to help developer who wants to start a project in Vue.
+## Home, About, Contact, Products, Product Details Page are there.
 npm install -g @vue-cli
 
 vue create vue-boilerplate-layout
